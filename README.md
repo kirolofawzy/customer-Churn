@@ -1,2 +1,5 @@
 # customer-Churn
-AI project that predict customer churn with using randomforestclassifier algorithm with accuracy 79%
+## project :- AI project that predict customer churn 
+## Algorithm :- random forest tree (RandomForestClassifier)
+## accuracy :- 79%
+
